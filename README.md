@@ -112,8 +112,8 @@ Thank you to all our sponsors! 🍻
 
 Support orval development by [Open Collective](https://opencollective.com/orval) and your logo will be displayed here with a link to your website.
 
-<a href="https://opencollective.com/orval">
-  <img src="https://orval.dev/images/orval-logo-horizontal.svg?raw=true" width="300" alt="Become a sponsor" />
+<a href="https://corp.mosh.jp">
+  <img src="https://orval.dev/images/mosh-logo-horizontal.svg?raw=true" width="300" alt="MOSH, Inc." />
 </a>
 
 ## Backers

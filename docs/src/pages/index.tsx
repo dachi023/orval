@@ -277,16 +277,16 @@ my-app
               </h4>
               <div className="flex justify-center items-center">
                 <a
-                  href="https://opencollective.com/orval"
+                  href="https://corp.mosh.jp"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:opacity-80 transition-opacity"
                 >
                   <img
                     className="h-40 w-auto"
-                    src="/images/orval-logo-horizontal.svg"
-                    alt="Sample Sponsor"
-                    title="Sample Sponsor"
+                    src="/images/mosh-logo-horizontal.svg"
+                    alt="MOSH, Inc."
+                    title="MOSH, Inc."
                   />
                 </a>
               </div>
